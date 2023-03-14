@@ -1,4 +1,4 @@
-<h3>🌱 Estudante do Curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Osório.</h3>
+<h3>🚧 EM CONSTRUÇÃO 🚧</h3>
 <!--
 **LeeT21/LeeT21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
