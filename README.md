@@ -1,5 +1,4 @@
-<h1>🚧 UNDER CONSTRUCTION 🚧</h1>
-
+Estudante do Curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul.
 <!--
 **LeeT21/LeeT21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
